@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "net.iq.api/catalogue",
+  "name": "net.iq/mcp",
   "title": "IQ.NET",
   "description": "Search index for MCP servers, Apify actors and x402 endpoints. Free, no signup.",
   "version": "1.0.0",
